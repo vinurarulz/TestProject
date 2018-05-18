@@ -3,7 +3,7 @@ package Models;
 public class CheckOut {
 
     public String DisplayNewAddress(String type) {
-        String value = "";
+        String value = "aaaaaaaaaaaaaaaaaaaaaaaaaaa";
         value += "<div class='col-md-6'>";
 
         value += "<div class='form-group'>";
